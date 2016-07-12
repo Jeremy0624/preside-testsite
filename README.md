@@ -1,4 +1,4 @@
-Preside-CMS-Skeleton
+Preside CMS test site
 ====================
 
-A skeleton PresideCMS application to be used as a starting point for all applications.
+A  PresideCMS application test site
