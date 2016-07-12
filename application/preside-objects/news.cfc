@@ -13,9 +13,9 @@
  */
 
 component  {
-	property name="title";
-	property name="location";
-	property name="description";
-	property name="date";
+	property name="title"		dbtype="varchar"	type="string"	maxlength="100";
+	property name="location"	dbtype="varchar"	type="string"	maxlength="100";
+	property name="description"	dbtype="varchar"	type="string"	maxlength="500";;
+	property name="date"		dbtype="datetime"	type="date";
 
 }
