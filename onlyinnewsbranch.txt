@@ -3,3 +3,5 @@ this txt file only exits in newsbranch
 only it is modified again
 
 now it is pushed to master also
+
+to test git reset to remove file in staging
