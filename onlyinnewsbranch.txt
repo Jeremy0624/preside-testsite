@@ -1,5 +1,0 @@
-this txt file only exits in newsbranch
-
-only it is modified again
-
-now it is pushed to master also
