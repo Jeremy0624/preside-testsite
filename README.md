@@ -1,4 +1,4 @@
 Preside CMS test site
 ====================
 
-A  PresideCMS application test site
+This is a PresideCMS application test site
