@@ -3,10 +3,3 @@ this txt file only exits in newsbranch
 only it is modified again
 
 now it is pushed to master also
-
-<<<<<<< HEAD
-to test git reset to remove file in staging
-
-=======
-to test git reset to remove file in staging
->>>>>>> 1241c8fc0206a934e0af226826667a1d0f4247ab
