@@ -13,10 +13,7 @@
  */
 
 component  {
-	property name="title"		dbtype="varchar"	type="string"	maxlength="100";
-	property name="author"		dbtype="varchar"	type="string"	maxlength="50";
-	property name="location"	dbtype="varchar"	type="string"	maxlength="100";
-	property name="description"	dbtype="varchar"	type="string"	maxlength="500";
-	property name="date"		dbtype="datetime"	type="date";
-	property name="type"		dbtype="varchar"	type="string"	maxlength="20";
+	property name="heading";
+	property name="category";
+
 }
