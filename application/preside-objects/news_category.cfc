@@ -14,6 +14,6 @@
 
 component  {
 	property name="title"		dbtype="varchar"	type="string"	maxlength="50";
-	property name="description"	dbtype="varar"	type="string"	maxlength="100";
+	property name="description"	dbtype="varchar"	type="string"	maxlength="100";
 
 }
