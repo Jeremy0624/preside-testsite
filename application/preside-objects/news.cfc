@@ -19,4 +19,6 @@ component  {
 	property name="description"	dbtype="varchar"	type="string"	maxlength="500";
 	property name="date"		dbtype="datetime"	type="date";
 	property name="type"		dbtype="varchar"	type="string"	maxlength="20";
+
+	property name="category"		dbtype="varchar"	type="string"	maxlength="20";
 }
